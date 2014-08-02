@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Linterna pez</string>
+    <string name="action_about">Acerca de</string>
+    <string name="action_help">Ayuda</string>
+    <string name="text_about">¡Si tu dispositivo no trae una aplicación de linterna incorporada,
+    esta aplicación puede ser útil y divertida!
+    \n\n Por Culebras GIS
+    \n www.culebrasgis.info</string>
+    <string name="text_not_supported">!Lo siento, su dispositivo no dispone de luz de flash!</string>
+    <string name="text_help">- Presione sobre el pez para encender/apagar la linterna del dispositivo.
+    \n\n- Presione el botón de volver del dispositivo para cerrar la aplicación y apagar la linterna.
+    \n\n- Con la linterna encendida, presionar los botones de inicio o bloqueo no hará que ésta se apague.
+    Esto significa que puede seguir usando su dispositivo con la linterna encendida.</string>
+	<string name="error_camera">Ocurrió un error mientras se accedía a la cámara</string>
+
+</resources>
